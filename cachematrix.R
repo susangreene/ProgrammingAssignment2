@@ -14,7 +14,7 @@ makecachematrix <- function(z = matrix()) {
     z <<- c
   }
   
-  # get the matrix, set the inverse 
+  # get the matrix and the inverse 
   
   GETinve = function()inv
   list(estab=estab, GETinve = GETinve, GET=GET,  
