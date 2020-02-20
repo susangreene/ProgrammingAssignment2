@@ -1,7 +1,7 @@
 ## This sets a matrix, uses a cache function within 
 ## the matrix, and gets the matrix in order 
 ## so that the inverse can be calculated.
-## Cachesolve is then used to calculate the solution to the inverse
+## Cachesolve is then used to calculate the solution to the inverse.
 
 
 # set the matrix
